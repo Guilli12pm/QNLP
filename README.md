@@ -1,35 +1,18 @@
 # Sentiment Analysis using Lamnbeq
 
-
 ## Description
 
-A brief description of your project goes here.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Installation
-
-Instructions on how to install and set up your project.
+In this project, we explore how to perform sentiment analysis using QNLP with Lambeq. We also compare the results using classical NLP methods.
 
 ## Usage
 
-Instructions on how to use your project and any relevant examples.
-
-## Contributing
-
-Guidelines on how to contribute to your project and how others can get involved.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+The project is divided in two:
+- Quantum NLP:
+    - Project.ipynb
+    - Project_Spider.ipynb
+- Classical NLP  
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [YourUsername](https://github.com/YourUsername)
+- Email: [guillaume.paya-monet@lmh.ox.ac.uk](mailto:guillaume.paya-monet@lmh.ox.ac.uk)
+- GitHub: [Guilli12pm](https://github.com/Guilli12pm/)
