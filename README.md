@@ -7,10 +7,11 @@ In this project, we explore how to perform sentiment analysis using QNLP with La
 ## Usage
 
 The project is divided in two:
-- Quantum NLP:
-    - Project.ipynb
-    - Project_Spider.ipynb
-- Classical NLP  
+- **Quantum NLP**: 
+    - *Binary Classification* -> QNLP_BinaryClass.ipynb ***(Working)***
+    - *Classification Upgrade* -> QNLP_UpdateClass.ipynb ***(Compiles but training does not work)***
+- **Classical NLP** -> ***(Working)***
+
 
 ## Contact
 
