@@ -1,4 +1,4 @@
-# Sentiment Analysis using Lamnbeq
+# Sentiment Analysis using Lambeq
 
 ## Description
 
